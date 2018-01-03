@@ -1,6 +1,7 @@
 # Kaggle-music-recommendation-project
 Here are personal python and R codes for the project.
  Submission file(csv) was created before the competition deadline  and score in top 30 of 1081 teams on Kaggle( with real-life test-set's AUC accuracy of about 0.71.
+ Also, if you submit my submission file now, you can see the accuracy of about 0.71 and score in top 30 of 1081 teams.
  Submission file was created by picking some features in submit.ipynb (by making minor change to submit.ipynb).
  Feature_engineer.ipynb is similiar to submit.ipynb, except that feature_engineer.ipynb is for doing cross-validation.
  R codes(.Rmd) are mainly for exploratory data analysis and trying different machine learning models, 
