@@ -1,4 +1,4 @@
-# Kaggle-music-recommendation-project
+# Kaggle-music-recommendation-project.
 
 project: kkbox music recommendation
 Here are personal python and R codes for the project.
